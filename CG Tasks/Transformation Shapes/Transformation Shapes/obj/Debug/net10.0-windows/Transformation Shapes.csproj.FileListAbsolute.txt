@@ -1,0 +1,18 @@
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\bin\Debug\net10.0-windows\Transformation Shapes.exe
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\bin\Debug\net10.0-windows\Transformation Shapes.deps.json
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\bin\Debug\net10.0-windows\Transformation Shapes.runtimeconfig.json
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\bin\Debug\net10.0-windows\Transformation Shapes.dll
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\bin\Debug\net10.0-windows\Transformation Shapes.pdb
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation_Shapes.Form1.resources
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.csproj.GenerateResource.cache
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.AssemblyInfoInputs.cache
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.AssemblyInfo.cs
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.csproj.CoreCompileInputs.cache
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.sourcelink.json
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.dll
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\refint\Transformation Shapes.dll
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.pdb
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transformation Shapes.genruntimeconfig.cache
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\ref\Transformation Shapes.dll
+D:\Computer-Graphics\CG Tasks\Transformation Shapes\Transformation Shapes\obj\Debug\net10.0-windows\Transfor.C27719AD.Up2Date
