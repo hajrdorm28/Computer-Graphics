@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Computer-Graphics\\CG Tasks\\Rectangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{683A208C-B94B-4AA9-A529-D23329A7C842}|Rectangle\\Rectangle.csproj|d:\\computer-graphics\\cg tasks\\rectangle\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{683A208C-B94B-4AA9-A529-D23329A7C842}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50D41A30-F1F5-6BE8-BABF-76CD6C8191B7}|Rectangle\\Rectangle.csproj|d:\\computer-graphics\\cg tasks\\rectangle\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D41A30-F1F5-6BE8-BABF-76CD6C8191B7}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Rectangle\\Program.cs",
               "ToolTip": "D:\\Computer-Graphics\\CG Tasks\\Rectangle\\Rectangle\\Program.cs",
               "RelativeToolTip": "Rectangle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T11:50:55.554Z",
               "EditorCaption": ""

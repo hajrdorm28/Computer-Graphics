@@ -1,0 +1,5 @@
+D:\Computer-Graphics\CG Tasks\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer-Graphics\CG Tasks\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.AssemblyInfoInputs.cache
+D:\Computer-Graphics\CG Tasks\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.AssemblyInfo.cs
+D:\Computer-Graphics\CG Tasks\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\Computer-Graphics\CG Tasks\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.sourcelink.json
