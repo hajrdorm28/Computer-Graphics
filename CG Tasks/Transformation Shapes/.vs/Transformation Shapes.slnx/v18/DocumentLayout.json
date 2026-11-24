@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Computer-Graphics\\CG Tasks\\Transformation Shapes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C7B6E75-AD92-4E93-A310-21049A7D9E3D}|Transformation Shapes\\Transformation Shapes.csproj|d:\\computer-graphics\\cg tasks\\transformation shapes\\transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7B6E75-AD92-4E93-A310-21049A7D9E3D}|Transformation Shapes\\Transformation Shapes.csproj|solutionrelative:transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A38CC0-8E83-F80F-1762-28D635506A94}|Transformation Shapes\\Transformation Shapes.csproj|d:\\computer-graphics\\cg tasks\\transformation shapes\\transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A38CC0-8E83-F80F-1762-28D635506A94}|Transformation Shapes\\Transformation Shapes.csproj|solutionrelative:transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7B6E75-AD92-4E93-A310-21049A7D9E3D}|Transformation Shapes\\Transformation Shapes.csproj|d:\\computer-graphics\\cg tasks\\transformation shapes\\transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3C7B6E75-AD92-4E93-A310-21049A7D9E3D}|Transformation Shapes\\Transformation Shapes.csproj|D:\\Computer-Graphics\\CG Tasks\\Transformation Shapes\\transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C7B6E75-AD92-4E93-A310-21049A7D9E3D}|Transformation Shapes\\Transformation Shapes.csproj|solutionrelative:transformation shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Transformation Shapes\\Form1.cs",
               "ToolTip": "D:\\Computer-Graphics\\CG Tasks\\Transformation Shapes\\Transformation Shapes\\Form1.cs",
               "RelativeToolTip": "Transformation Shapes\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T05:00:34.534Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\Computer-Graphics\\CG Tasks\\Transformation Shapes\\Transformation Shapes\\Form1.cs [Design]",
               "RelativeToolTip": "Transformation Shapes\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T05:00:12.752Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-26T05:00:12.752Z"
             }
           ]
         }
